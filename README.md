@@ -12,7 +12,7 @@ In dit labo staat LINQ centraal. Door middel van LINQ kunnen een query uitvoeren
 
 ## 2. Geslaagd
 
-- Maak een **property** in de StudentStore ```PassedStudents```. Gebruik 'lazy evaluation' om een lijst van studenten te retourneren met een score (grade) groter of gelijk aan 10.
+- Maak een **property** in de StudentStore ```PassedStudents```. Gebruik 'lazy evaluation' om een lijst van studenten te retourneren met een score (grade) groter dan 12.
 - Toon het resultaat in de resultListBox
 
 ## 3. Gesorteerd
